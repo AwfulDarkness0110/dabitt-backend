@@ -6,7 +6,7 @@
 //       {
 //         id: "asf31cvz21",
 //         completedSetup: false,
-//         username: "augericke",
+//         username: "",
 //       },
 //       {
 //         id: "as11cva1asd",
